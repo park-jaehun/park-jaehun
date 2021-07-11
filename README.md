@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 ### Hi there 👋
-I'm JaeHun and I'm interested in DA & DS. particulary, I'm interested in XAI
-anyway.. if you wanna contact me, please leave me message!! 
+I'm JaeHun and I'm interested in DA & DS. particulary, I'm interested in XAI </br>
+anyway.. if you wanna contact me, please leave me message!! </br>
 Have a nice day!!
 
 [![jaehun's github stats](https://github-readme-stats.vercel.app/api?username=park-jaehun)](https://github.com/anuraghazra/github-readme-stats) </br>
