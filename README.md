@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:pjun588@gmail.com)
 	
 
-[![jaehun's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![jaehun's github stats](https://github-readme-stats.vercel.app/api?username=park-jaehun)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
